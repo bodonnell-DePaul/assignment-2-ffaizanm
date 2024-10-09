@@ -22,3 +22,5 @@
     Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. 
     Nullam nec nibh nibh. Nullam quis nisl nec nunc congue mollis. `, dueDate: '2024-04-11' },
   ];
+
+  export default todos;
